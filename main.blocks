@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="irremote_init" id="c~P1P?|`nv)wT#{$?_DB" disabled-reasons="pxt_automatic_disabled" x="1099" y="223"><field name="pin">DigitalPin.P15</field></block><block type="irremote_onHeld" id="G,(=BL8oS+xabIdP1{I[" x="783" y="530"><field name="button">irremote.Button.B1</field></block></xml>
